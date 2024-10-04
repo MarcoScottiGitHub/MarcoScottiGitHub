@@ -12,5 +12,5 @@
 ! </b> <i>(click to expand!)</i> 
   </summary>
   <hr/>
-  <img align="right" src="./img/assinatura digital.png">
+  <img align="center" src="./img/assinatura digital.png">
   <p>
