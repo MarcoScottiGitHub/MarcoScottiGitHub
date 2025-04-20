@@ -1,7 +1,9 @@
   <img src="./img/python.png" align="right" width="80" alt=""/>
 
-   **[BLACK HAT PYTHON - 2ª EDIÇÃO
-](https://books.google.com.br/books?id=Jb7VBgAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)**  
+ <em>Download do PDF</em> : <br><br>  **[BLACK HAT PYTHON - 2ª EDIÇÃO
+](assets/blackhatpython.pdf)**  
+
+
    <p align="center">
   <samp>  
     <a href="https://github.com/MarcoScottiGitHub?tab=followers">Follow!</a>
